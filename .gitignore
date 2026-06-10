@@ -21,7 +21,6 @@ __pycache__/
 *.csv
 *.xlsx
 *.xls
-*.pkl
 *.joblib
 
 # Sistema operativo y editores
