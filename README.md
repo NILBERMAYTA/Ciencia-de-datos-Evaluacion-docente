@@ -48,9 +48,3 @@ http://localhost:8501
 2. Presionar `Calcular promedio esperado`.
 3. Revisar el promedio esperado, la interpretacion, los graficos y la tabla de resultados.
 
-## Archivos principales
-
-- `app.py`: interfaz grafica en Streamlit.
-- `requirements.txt`: librerias necesarias.
-- `modelo_regresion_docentes.pkl`: modelo entrenado.
-- `respuestas_analisis2.csv`: datos de respuestas usados para consultar docentes.
